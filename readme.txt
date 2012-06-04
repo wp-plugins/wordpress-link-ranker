@@ -29,7 +29,7 @@ notice that if you have a lot of links in your Links page, it may take a long ti
 
 == Screenshots ==
 
-1. This screen shot shows the look of comments after activating this plugin
+1. Links Admin Panel
 
 == Changelog ==
 
