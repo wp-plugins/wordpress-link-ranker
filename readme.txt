@@ -33,5 +33,8 @@ notice that if you have a lot of links in your Links page, it may take a long ti
 
 == Changelog ==
 
+= 0.2 =
+* Fixed a bug when google page rank checker faild to generate hash code
+
 = 0.1 =
 * base version

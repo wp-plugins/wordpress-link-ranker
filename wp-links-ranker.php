@@ -3,7 +3,7 @@
   Plugin Name: WordPress Link Ranker
   Plugin URI: http://www.moallemi.ir/blog
   Description: This plugin adds the Google Page Rank and Alexa Rank to Links Page in WordPress admin panel
-  Version: 0.1
+  Version: 0.2
   Author: Reza Moallemi
   Author URI: http://www.moallemi.ir/blog
   Text Domain: wp-link-ranker
